@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/static/js/main.0d46d29a.js",
+    "static/js/787.85daf449.chunk.js": "/static/js/787.85daf449.chunk.js",
+    "index.html": "/index.html",
+    "static/media/professional-hexagon.svg": "/static/media/professional-hexagon.5bce4b83dbfd750146d7547e1489c996.svg",
+    "static/media/cash.svg": "/static/media/cash.a14982fe0ab082b46578e9ac174dee09.svg",
+    "static/media/home-analytics.svg": "/static/media/home-analytics.da8acbb141f4110a77194b614dc0d94a.svg",
+    "main.0d46d29a.js.map": "/static/js/main.0d46d29a.js.map",
+    "787.85daf449.chunk.js.map": "/static/js/787.85daf449.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0d46d29a.js"
+  ]
+}
