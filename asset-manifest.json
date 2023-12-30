@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.fa9babb2.js",
+    "main.js": "/static/js/main.3d20c1ba.js",
     "index.html": "/index.html",
     "static/media/professional-hexagon.svg": "/static/media/professional-hexagon.5bce4b83dbfd750146d7547e1489c996.svg",
     "static/media/cash.svg": "/static/media/cash.a14982fe0ab082b46578e9ac174dee09.svg",
     "static/media/home-analytics.svg": "/static/media/home-analytics.da8acbb141f4110a77194b614dc0d94a.svg",
-    "main.fa9babb2.js.map": "/static/js/main.fa9babb2.js.map"
+    "main.3d20c1ba.js.map": "/static/js/main.3d20c1ba.js.map"
   },
   "entrypoints": [
-    "static/js/main.fa9babb2.js"
+    "static/js/main.3d20c1ba.js"
   ]
 }
