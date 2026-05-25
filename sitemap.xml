@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://neofix.ee/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://neofix.ee/?lng=ru" />
+    <xhtml:link rel="alternate" hreflang="et" href="https://neofix.ee/?lng=ee" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://neofix.ee/?lng=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://neofix.ee/" />
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
